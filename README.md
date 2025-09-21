@@ -202,7 +202,7 @@ if __name__ == '__main__':
 
 
 
-✅ Explanation of Program:
+Explanation of Program:
 
 /log_mood: Accepts mood rating + notes from the user, analyzes text using TextBlob, and returns suggestions.
 
