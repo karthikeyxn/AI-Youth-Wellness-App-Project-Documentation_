@@ -41,13 +41,6 @@ Database: Stores user profiles, daily moods, and recommendations.
 
 AI Layer: Sentiment analysis using NLP to interpret emotions.
 
-## ER Diagram (Simplified)
-
-User (UserID, Name, Age, Email, Password)
-    |
-    |---< MoodLog (LogID, UserID, MoodRating, Notes, Date)
-    |
-    |---< Recommendation (RecID, UserID, Text, Date)
 
 3. Technology Stack
 
